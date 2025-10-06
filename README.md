@@ -2,7 +2,7 @@
 
 ## Overview
 
-A lightweight, multi-threaded TCP port scanner written in Python. This project demonstrates socket programming, banner grabbing, and concurrency using `concurrent.futures.ThreadPoolExecutor`. It scans a specified range of ports on a target host to identify open ports and attempts to retrieve service banners for quick service identification.
+A lightweight, multi-threaded TCP port scanner written in Python. 
 
 > **Disclaimer:** Use this tool only on systems you own or are explicitly authorized to test. Unauthorized scanning or probing of systems may be illegal and unethical.
 
