@@ -133,4 +133,5 @@ PORT    STATE   SERVICE     BANNER
 ---
 # OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0e7fcc3e-5565-4e65-a5f6-fa4dba252835" />
 
